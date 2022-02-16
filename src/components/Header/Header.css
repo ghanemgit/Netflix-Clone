@@ -1,0 +1,12 @@
+.LinkStyle{
+    background-color: aqua;
+  color: rgb(0, 0, 0);
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  width: 100%;
+  font-size: xx-large;
+  margin-bottom: 5%;
+}
